@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891827789584",
+    "project_id": "csc4360-activity14-fcm",
+    "storage_bucket": "csc4360-activity14-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891827789584:android:8ca935d537207801c60f95",
+        "android_client_info": {
+          "package_name": "com.marcc.csc4360.cloud_courier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8Jv3wiSO7mNaiOqLaY-Q66Nf8DwzYEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
